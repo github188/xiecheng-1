@@ -1,0 +1,733 @@
+
+/*导航被点击更改*/
+.nav_item .nav_ico{
+	height: 40;
+	line-height: 37px;
+	border-top:3px solid #ff9915;
+	background-color:#fff;
+}
+.nav_ico .icon_line{
+	color:#0066cc;
+}
+.nav_ico .icon_sj{
+	width: 7px;
+	height: 4px;
+	background-position:0 0;
+	margin-top:18px;
+	margin-right:5px;
+	overflow:hidden;
+}
+/*吊顶*/
+.top{
+	width:100%;
+	height: 25px;
+	background-color:#dbedff;
+	padding-left:10px;
+}
+.top a{
+	font:12px/25px "宋体";
+	color:#666666;
+}
+/*小导航*/
+.head .hea_bottom{
+	width: 1140px;
+	height: 37px;
+	border:1px solid #bbbbbb;
+	border-top:none;
+	margin:0 auto;
+	padding-left:21px;
+	padding-right: 17px;
+	word-spacing:3px;
+	position:relative;
+	margin-bottom:16px;
+}
+.hea_bottom .headt_left a{
+	font:12px/37px "宋体";
+	color:#333333;
+}
+.hea_bottom .headt_left .red{
+	color:#0066cc;
+}
+.he_dw .hb_bg{
+	width: 24px;
+	height: 16px;
+	background-position:0 -4px;
+	position:absolute;
+	bottom:21px;
+	left:450px;
+}
+.hea_bottom .headt_right a{
+	font:12px/37px "宋体";
+	color:#333333;
+}
+/*主体内容*/
+.content{
+	width: 1180px;
+	height: 1200px;
+	margin:0 auto;
+}
+/*主体左边开始*/
+.content .cont_left{
+	width: 380px;
+	margin-right:20px;
+}
+.cont_left .check{
+	height: 353px;
+	background-color:#2477e1;
+	border-radius:3px;
+	padding-left:5px;
+	padding-right:2px;
+	position:relative;
+	margin-bottom:15px;
+}
+.check .check_title{
+	height: 43px;
+	font:bold 18px/43px "宋体";
+	color:#ffffff;
+	padding-left:27px;
+}
+.check_title .chti_ico{
+	width: 16px;
+	height: 16px;
+	background-position:-24px 0;
+	margin-top:12px;
+	margin-right:11px;
+}
+.check .che_hang{
+	width: 370px;
+	height:293px;
+	background-color:#fff;
+	border-radius:4px;
+	padding-top:10px;
+}
+.che_hang .hang_one{
+	margin-bottom:8px;
+	height: 30px;
+}
+.che_hang .hang_thr{
+	margin-bottom:0;
+}
+.hang_one dt{
+	width:89px;
+	height:30px;
+	font:12px/30px "宋体";
+	color:#333333;
+	text-align:right;
+	margin-right:11px;
+}
+.hang_one dd{
+	line-height: 30px;
+	font-size:12px;
+	color:#333333;
+	vertical-align:top;
+}
+.hang_five input{
+	width: 118px;
+	height: 31px;
+	border: 1px solid #e77c00;
+	background-color:#ffb000;
+	font:bold 16px/33px "宋体";
+	color:#fff;
+	text-align:center;
+}
+.hang_thr dt{
+	color:#e0d3cc;
+}
+.hang_one dd input{
+	vertical-align:middle;
+}
+.hang_one dd span{
+	margin-right:24px;
+}
+.hang_one .hang_four{
+	width: 9px;
+	height: 5px;
+	background-position:0 -20px;
+	display:inline-block;
+}
+.hang_two a{
+	line-height: 30px;
+	color:#0066cc;
+	display:inline-block;
+}
+.hang_two input{
+	width: 228px;
+	height: 28px;
+	border:1px solid #dddddd;
+	color:#000000;
+	line-height: 28px;
+}
+/*换的定位*/
+.check .change{
+	width:15px;
+	height: 45px;
+	position:absolute;
+	right:19px;
+	bottom:203px;
+}
+.change .chan_one{
+	width: 9px;
+	height: 14px;
+	border-top:1px solid #dddddd;
+	border-right:1px solid #dddddd;
+	display:block;
+}
+.change .chan_two{
+	width: 15px;
+	height: 15px;
+	font:12px/15px "宋体";
+	color:#fff;
+	display:block;
+	text-align:center;
+	background-color:#c9cacb;
+}
+.change .chan_thr{
+	width: 9px;
+	height: 14px;
+	border-bottom:1px solid #dddddd;
+	border-right:1px solid #dddddd;
+	display:block;
+}
+/*左边第二块*/
+.cont_left .left_one{
+	width: 380px;
+	height: 75px;
+	margin-bottom:5px;
+}
+/*左边第三块*/
+.cont_left .left_two{
+	width: 380px;
+	height: 66px;
+	border-top:3px solid #1476ff;
+}
+.left_two .let{
+	width: 378px;
+	height: 64px;
+	border:1px solid #cacaca;
+	border-top-color:#1476ff;
+	position:relative;
+	margin-bottom:3px;
+}
+.let .let_one{
+	width: 50px;
+	height: 50px;
+	background-position:0 -25px;
+	position:absolute;
+	left:28px;
+	top:6px;
+}
+.let .let_two{
+	width: 98px;
+	height: 19px;
+	font:bold 18px "宋体";
+	color:#5b657e;
+	position:absolute;
+	top:11px;
+	left:87px;
+}
+.let .let_thr{
+	width: 170px;
+	height: 14px;
+	font:12px/14px "宋体";
+	color:#888888;
+	position:absolute;
+	top:37px;
+	left:87px;
+}
+.left_two .let .let_four{
+	width: 32px;
+	height: 28px;
+	background-position:0 -75px;
+	position:absolute;
+	right:20px;
+	bottom:20px;
+}
+/*第四块开始*/
+.cont-left .left_thr{
+	height: 236px;
+	margin-bottom:11px;
+}
+.left_thr .ler_top{
+	height: 44px;
+	font:bold 16px/44px "宋体";
+	color:#333333;
+}
+.left_thr .ler_bottom{
+	height: 192px;
+	background-color:#e0f0ff;
+	border-radius:5px;
+}
+.ler_bottom .bot_one{
+	width: 380px;
+	height: 93px;
+	border-bottom:3px solid #fff;
+}
+.bot_one .boto{
+	width: 92px;
+	height: 77px;
+	border-right: 3px solid #fff;
+	padding-top:16px;
+	text-align:center;
+	overflow:hidden;
+}
+.bot_one .boto_thr{
+	border-right:none;
+}
+.boto .boto_bg{
+	width: 53px;
+	height: 40px;
+	background-position:-104px 0;
+	display:inline-block;
+}
+.boto .boto_text{
+	width:93px;
+	height:30px;
+	font:bold 14px/30px "宋体";
+	color:#3683d3;
+	display:inline-block;
+}
+.boto_one .boto_bg{
+	background-position:-50px -41px;
+}
+.boto_two .boto_bg{
+	background-position:-50px 0;
+}
+.boto_thr .boto_bg{
+	background-position:-105px -41px;
+}
+/*搜索框*/
+.ssk .ssk_head{
+	height: 38px;
+	font:bold 12px/38px "宋体";
+	color:#418ad5;
+	padding-left:10px;
+}
+.ssk_list .ssli_top{
+	height: 18px;
+	font-size:12px;
+	color:#333333;
+	line-height: 18px;
+	margin-bottom:7px;
+	padding-left:10px;
+}
+.ssk_list .ssli_bottom{
+	height: 26px;
+	padding-left:10px;
+}
+.ssli_bottom .kuang{
+	width: 289px;
+	height: 24px;
+	border:1px solid #2a61a8;
+	border-radius:8px;
+}
+.ssli_bottom .sub{
+	width: 54px;
+	height: 25px;
+	background-color:#4295e7;
+	border:1px solid #3882eb;
+	font:bold 14px/25px "宋体";
+	color:#fff;
+}
+/*携程为什么好之原因*/
+.cont_left .let_four{
+	height: 191px;
+}
+.left_four .ler_top{
+	font: 18px/46px "宋体";
+	color:#333333;
+}
+.left_four .good{
+	width: 366px;
+	height: 124px;
+	border:1px solid #badeff;
+	padding-left:12px;
+	padding-top:19px;
+	background-color:#f4fcff;
+}
+.good .good_top{
+	width: 366px;
+	height: 51px;
+	position:relative;
+}
+.good_top .god_bg{
+	width: 42px;
+	height: 42px;
+	background-position:0 -104px;
+	position:absolute;
+	top:0;
+	left:0;
+}
+.good_top .god_one{
+	width: 184px;
+	height: 25px;
+	font:bold 22px/25px "宋体";
+	color:#ff6700;
+	position:absolute;
+	top:0px;
+	left:50px;
+}
+.good_top .god_two{
+	width: 300px;
+	height: 27px;
+	font: 16px/27px "宋体";
+	color:#2477e2;
+	position:absolute;
+	top:25px;
+	left:50px;
+}
+.good_top .god_bga{
+	background-position:-43px -104px;
+}
+/*服务公告开始*/
+.cont_left .left_five{
+	height: 227px;
+}
+.left_five dt{
+	font:bold 18px/51px "宋体";
+}
+.left_five dd{
+	padding-left:5px;
+}
+.left_five dd a{
+	font:12px/22px "宋体";
+	color:#999999;
+}
+.left_five .lansezi{
+	padding-left:12px;
+}
+.left_five .lansezi a{
+	color:#0053aa;
+}
+/*右边第一块开始*/
+.cont_right .right_one{
+	width: 780px;
+	height: 235px;
+	background:url(../img/right_one.png) no-repeat;
+	text-indent:-9999px;
+}
+.right_one a{
+	width: 780px;
+	height: 235px;
+	display:block;
+}
+/*右边第二块开始*/
+.cont_right .right_two{
+	width: 780px;
+	height: 113px;
+	margin-bottom:5px;
+}
+.right_two .rtwo_head{
+	height: 36px;
+	font:18px/36px "宋体";
+	color:#333333;
+	border-bottom:1px solid #999999;
+	margin-bottom:8px;
+}
+.right_two .rtwo_content{
+	height: 68px;
+	position:relative;
+}
+/*下边的两个方向箭头*/
+.rtwo_content .rtcont_left{
+	width: 17px;
+	height: 28px;
+	background-position:-32px -75px;
+	position:absolute;
+	left:0;
+	top:27px;
+	text-indent:-9999px;
+}
+.rtwo_content .rtcont_right{
+	width: 17px;
+	height: 28px;
+	background-position:-86px -82px;
+	position:absolute;
+	right:2px;
+	top:27px;
+	text-indent:-9999px;
+}
+/*中间的列表*/
+.rtwo_content .rtwo_list{
+	width:180px;
+	height: 68px;
+	margin-left:40px;
+	margin-right:15px;
+}
+.rtwo_list .rt_item{
+	height: 20px;
+}
+.rt_item .rtit_one{
+	width: 14px;
+	height: 16px;
+	background-position:-50px -81px;
+	display:inline-block;
+	margin-top:2px;
+	margin-right:2px;
+}
+.rt_item .ritili_one{
+	width: 16px;
+	height: 14px;
+	background-position:-65px -81px;
+}
+.rt_item .ritili_two{
+	width: 16px;
+	height: 14px;
+	background-position:-104px -82px;
+}
+.rt_item .rtit_two{
+	font:bold 14/20px "宋体";
+	color:#0066cc;
+}
+.rtwo_list .rt_inf{
+	height: 24px;
+}
+.rt_inf .rtin_one{
+	width: 35px;
+	font:10px/24px "宋体";
+	color:#a3a3a3;
+}
+.rt_inf .rtin_two{
+	width: 70px;
+	font:12px/24px "宋体";
+	color:#0066cc;
+}
+.rt_inf .rtin_thr{
+	width: 50px;
+	font:14px/24px "宋体";
+	color:#bb0000;
+	text-align:right;
+}
+/*右边第三块开始*/
+.cont_right .right_thr{
+	width:780px;
+	height: 477px;
+}
+.right_thr .rth_head{
+	padding-left:10px;
+	height: 40px;
+	border-bottom:3px solid #3983e5;
+}
+.rth_head a{
+	font:bold 16px/40px "宋体";
+	word-spacing:18px;
+	color:#333333;
+}
+.rth_head .rthe_one{
+	color:#0066cc;
+	position:relative;
+}
+.rthe_one .rthe_bg{
+	width: 13px;
+	height: 8px;
+	background-position:-26px -17px;
+	position:absolute;
+	top:23px;
+	_top:24px;
+	left:25px;
+}
+.right_thr .rth_cont{
+	width: 763px;
+	height: 408px;
+	padding:8px 9px 8px 8px;
+	background-color:#f1f1f1;
+}
+.rth_cont .rtco_one{
+	height: 100px;
+}
+/*第一个列表*/
+.rtco_one .rton_item{
+	width: 190px;
+	height: 100px;
+	position:relative;
+}
+.rton_item .rtonit_bg{
+	width: 38px;
+	height: 24px;
+	background-color:#808695;
+	font:12px/24px "宋体";
+	color:#fff;
+	position:absolute;
+	top:0;
+	left:10px;
+	text-align:center;
+}
+/*长条背景图*/
+.rth_cont .rtco_two{
+	width: 763px;
+	height: 6px;
+	background:url(../img/rithrbg.png) no-repeat;
+}
+/*第二个列表*/
+.rth_cont .rtco_thr{
+	height: 89px;
+}
+.rtco_thr .rtth_one{
+	width: 190px;
+	height: 89px;
+	border-bottom:1px solid #d7d7d7;
+	position:relative;
+	background-color:#fff;
+}
+.rtth_one .rtton_df{
+	width: 104px;
+	height: 17px;
+	font:16px/17px "宋体";
+	color:#333333;
+	position:absolute;
+	top:11px;
+	left:6px;
+}
+.rtth_one .rtton_tm{
+	width: 66px;
+	height: 16px;
+	font:14px/16px "宋体";
+	color:#999999;
+	position:absolute;
+	top:33px;
+	left:7px;
+}
+.rtth_one .rtton_zk{
+	width: 37px;
+	height: 17px;
+	font:12px/17px "宋体";
+	color:#9ea8ae9;
+	background-color:#f0f3f4;
+	border:1px solid #c5cfd3;
+	text-align:center;
+	position:absolute;
+	bottom:17px;
+	left:80px;
+}
+.rtth_one .rtton_rmb{
+	width:7px;
+	height: 14px;
+	color:#bb0000;
+	font-size:14px;
+	position:absolute;
+	bottom:19px;
+	right:50px;
+}
+.rtth_one .rtton_jq{
+	width:32px;
+	height: 15px;
+	font-size:18px;
+	font-weight:bold;
+	color:#bb0000;
+	position:absolute;
+	bottom:22px;
+	right:14px;
+}
+/*第3个列表完全复制，现在改第四个列表。最下边的列表*/
+.rtco_five .rtth_one{
+	height: 112px;
+}
+.rtco_five .rtton_buy{
+	padding-left:5px;
+	padding-right:5px;
+	background-color:#ff7d2d;
+	font:12px/18px "宋体";
+	color:#fff;
+	position:absolute;
+	top:8px;
+	left:0px;
+}
+.rtco_five .rtton_df{
+	position:absolute;
+	top:34px;
+	left:6px;
+}
+.rtco_five .rtton_tm{
+	position:absolute;
+	top:57px;
+	left:6px;
+}
+/*页脚开始*/
+.fly_foot{
+	width: 1180px;
+	height: 352px;
+	margin:0 auto;
+}
+/*页脚第一块*/
+.fly_foot .flycont_one{
+	width:1168px;
+	height: 195px;
+	border:1px solid #dedede;
+	padding-left:10px;
+	padding-top:5px;
+}
+/*第一块的第一行列表*/
+.flycont_one .flon_one{
+	height: 34px;
+	font:12px/34px "宋体";
+	color:#999999;
+}
+.flycont_one .flcon_two{
+	height: 36px;
+	word-spacing:3px;
+}
+/*第一块的第二航列表*/
+.flcon_two dt{
+	font:bold 12px/18px "宋体";
+	color:#999999;
+	margin-right:11px;
+}
+.flcon_two dd{
+	width: 1094px;
+}
+.flcon_two dd a{
+	font:12px/18px "宋体";
+	color:#999999;
+}
+/*修改第三行列表*/
+.flycont_one .flcon_thr{
+	height: 18px;
+	font:12px/18px "宋体";
+	word-spacing:3px;
+}
+.flcon_thr dt{
+	font-weight:bold;
+	color:#999999;
+	margin-right:11px;
+}
+.flcon_thr dd a{
+	color:#999999;
+}
+/*页脚第二大块*/
+.fly_foot .flycont_two{
+	width: 940px;
+	height: 17px;
+	font:12px/17px "宋体";
+	margin:0 auto 1px;
+}
+.flycont_two a,.flycont_thr a{
+	color:#4c4c4c;
+}
+.flycont_two .flyboot_line,.flycont_thr .flyboot_line{
+	background:url(../img/flyboot_line.png) no-repeat right 4px;
+	padding-right:3px;
+	margin-right:3px;
+}
+/*页脚第三大块*/
+.fly_foot .flycont_thr{
+	width: 910px;
+	height: 17px;
+	font:12px/17px "宋体";
+	margin:0 auto 11px;
+}
+.flycont_thr .flyboot_line{
+	background:url(../img/flyboot_line.png) no-repeat right 4px;
+	padding-right:1px;
+	margin-right:1px;
+}
+/*最底下的举报电话什么的*/
+.fly_foot .flycont_four{
+	width: 956px;
+	height: 34px;
+	background:url(../img/btm.png) no-repeat;
+	margin:0 auto 25px;
+	text-indent:-9999px;
+}
+.flycont_four a{
+	width: 90px;
+	height: 34px;
+}

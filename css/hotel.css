@@ -1,0 +1,1010 @@
+/*导航更改*/
+.nav_item .nav_ico{
+	height: 40;
+	line-height: 37px;
+	border-top:3px solid #ff9915;
+	background-color:#fff;
+}
+.nav_ico .icon_line{
+	color:#0066cc;
+}
+.nav_ico .icon_sj{
+	width: 7px;
+	height: 4px;
+	background-position:0 0;
+	margin-top:18px;
+	margin-right:5px;
+	overflow:hidden;
+}
+.nav_top .top_box .item_right{
+	margin-right:0;
+}
+.head .hea_bottom{
+	width: 1140px;
+	height: 37px;
+	border:1px solid #bbbbbb;
+	border-top:none;
+	margin:0 auto;
+	padding-left:21px;
+	padding-right: 17px;
+	word-spacing:3px;
+	position:relative;
+	margin-bottom:16px;
+}
+.hea_bottom .headt_left a{
+	font:12px/37px "宋体";
+	color:#333333;
+}
+.hea_bottom .headt_left .red{
+	color:#0066cc;
+}
+.he_dw .hb_bg{
+	width: 17px;
+	height: 16px;
+	background-position:0 0;
+	position:absolute;
+	bottom:21px;
+	left:210px;
+}
+.hea_bottom .headt_right a{
+	font:12px/37px "宋体";
+	color:#333333;
+}
+/*主体内容开始*/
+.hot_cont{
+	width: 1182px;
+	margin:0 auto;
+}
+.hot_cont .hotont_left{
+	width: 380px;
+	overflow:hidden;
+}
+.hotont_left .hole_one{
+	height: 392px;
+	background-color:#3983e5;
+	border-radius:3px;
+	padding-left:6px;
+	padding-right:6px;
+}
+.hole_one .hole_title{
+	height: 44px;
+	font:bold 18px/44px "宋体";
+	color:#ffffff;
+}
+.hole_title .hoti_ico{
+	width: 18px;
+	height: 13px;
+	background-position:-18px 0;
+	display:inline-block;
+	margin-top:13px;
+	margin-left:4px;
+}
+.hole_title .hoti_cha{
+	margin-left:10px;
+}
+/*下边表单开始*/
+.hole_one .hole_cont{
+	width: 368px;
+	height: 342px;
+	background-color:#fff;
+	border-radius:3px;
+}
+.hole_cont .hoco_one{
+	height: 28px;
+	padding-top:14px;
+	background-color:#f5f5f5;
+	text-align:center;
+}
+.hole_cont .hoco_two{
+	margin-bottom:8px;
+	height: 30px;
+}
+.hoco_two dt{
+	width:89px;
+	height:30px;
+	font:12px/30px "宋体";
+	color:#333333;
+	text-align:right;
+	margin-right:11px;
+}
+.hoco_two dd{
+	line-height: 30px;
+	font-size:12px;
+	color:#333333;
+	vertical-align:top;
+}
+.hoco_two a{
+	line-height: 30px;
+	color:#0066cc;
+	display:inline-block;
+}
+.hoco_two input{
+	width: 230px;
+	height: 28px;
+	border:1px solid #dddddd;
+	color:#000000;
+	line-height: 28px;
+}
+.hoco_two select{
+	width: 230px;
+}
+.hoco_thr input{
+	width: 230px;
+	height: 31px;
+	border: 1px solid #e77c00;
+	background-color:#ffb000;
+	font:bold 16px/33px "宋体";
+	color:#fff;
+	text-align:center;
+}
+/*左边第二块开始*/
+.hotont_left .hole_two{
+	height:211px;
+	background:url(../img/hotelleft_one.png) no-repeat;
+	border-bottom:1px solid #767676;
+	position:relative;
+	border-radius:3px;
+}
+.hole_two .hotw_bg{
+	width: 380px;
+	height: 89px;
+	background-color:#524a44;
+	position:absolute;
+	left:0;
+	bottom:0;
+	opacity:0.7;
+	filter: alpha(opacity=70);
+	border-radius:3px;
+}
+.hole_two .hotw_text{
+	width: 344px;
+	height: 69px;
+	position:absolute;
+	left:14px;
+	bottom:9px;
+	border-radius:3px;
+}
+.hotw_text a{
+	width: 80px;
+	height: 32px;
+	background-color:#9e988e;
+	font:bold 14px/32px "宋体";
+	color:#fff;
+	text-align:center;
+	border-radius:3px;
+}
+/*左边第三块开始*/
+.hotont_left .hole_thr{
+	width: 342px;
+	height: 206px;
+	padding:12px 18px 0 18px;
+	border:1px solid #dedede;
+	border-radius:3px;
+	background-color:#f2f2f2;
+}
+.hole_thr .hoth_head{
+	height: 35px;
+	font:bold 18px/35px "宋体";
+	color:#333333;
+	border-bottom:1px solid #d4d4d4;
+	margin-bottom:9px;
+}
+/*第三块中间*/
+.hole_thr .hoth_cont{
+	height:93px;
+	margin-bottom:11px;
+}
+/*左边图*/
+.hoth_cont .hotc_left{
+	width:137px;
+	height: 93px;
+	margin-right:13px;
+}
+/*右边介绍*/
+.hotc_right .hori_one{
+	widows: 190px;
+	height: 20px;
+	font:bold 18px/20px "宋体";
+	color:#333333;
+	display:block;
+	margin-top:13px;
+}
+.hotc_right .hori_two{
+	widows: 190px;
+	height: 30px;
+	font:12px/30px "宋体";
+	color:#666666;
+	display:block;
+	margin-bottom:6px;
+}
+.hotc_right .hori_thr{
+	widows: 190px;
+	height: 24px;
+	font:12px/24px "宋体";
+	color:#b2b2b2;
+	display:block;
+}
+/*下边的发现之旅*/
+.hole_thr .hoth_bottom{
+	width: 239px;
+	height: 29px;
+	font:bold 18px/20px "宋体";
+	color:#0066cc;
+	background-color:#fff;
+	border:1px solid #88b6e3;
+	border-radius:3px;
+	display:inline-block;
+	padding-left:101px;
+	padding-top:12px;
+	position:relative;
+}
+.hoth_bottom span{
+	width:9px;
+	height: 18px;
+	background-position:-37px 0;
+	display:inline-block;
+	position:absolute;
+	bottom:10px;
+	right:103px;
+}
+/*左边第四块开始*/
+.hotont_left .hole_four{
+	width:370px;
+	height: 166px;
+	background-color:#f3f3f3;
+	border:5px solid #ffd33a;
+	position:relative;
+}
+.hole_four .hofo_one{
+	width: 168px;
+	height: 26px;
+	background-position:0 -18px;
+	position:absolute;
+	left:30px;
+	top:43px;
+}
+.hole_four .hofo_two{
+	width: 172px;
+	height: 46px;
+	background-position:0 -45px;
+	position:absolute;
+	left:28px;
+	bottom:45px;
+}
+.hole_four .hofo_thr{
+	width: 120px;
+	height:120px;
+	position:absolute;
+	right:25px;
+	top:23px;
+}
+/*第五块开始*/
+.hotont_left .hole_five{
+	height: 188px;
+}
+.hole_five .hofi_head{
+	height: 37px;
+	margin-top:5px;
+	font:bold 22px/37px "宋体";
+	color:#333333;
+	position:relative;
+}
+.hofi_head span{
+	width:45px;
+	height: 28px;
+	background-position:0 -92px;
+	position:absolute;
+	bottom:14px;
+	left:92px;
+}
+.hole_five .hofi_cont{
+	width: 378px;
+	height: 144px;
+	border:1px solid #dedede;
+}
+/*左边第六块开始 复制四块*/
+.hotont_left .hole_six{
+	width: 378px;
+	height: 63px;
+	border:1px solid #dedede;
+	border-radius:3px;
+}
+/*左边第十块促销信息订阅*/
+.hotont_left .hole_sev{
+	height: 30px;
+}
+.hole_sev .hose_left{
+	font:bold 12px/30px "宋体";
+	color:#333333;
+	overflow:hidden;
+	_line-height:30px;
+}
+.hole_sev .hose_mid{
+	width: 230px;
+	height: 26px;
+	border:1px solid #cccccc;
+}
+.hole_sev .hose_right{
+	width: 54px;
+	height: 28px;
+	font:14px/28px "宋体";
+	color:#333333;
+	border:1px solid #cccccc;
+	border-left:none;
+	background-color:#f0f0f0;
+	text-align:center;
+}
+/*促销订阅消息完成，最地下三块复制于第六块*/
+/*页面内容右边开始*/
+.hot_cont .hotont_right{
+	width: 780px;
+}
+.hotont_right .hotri_one{
+	width: 780px;
+	height: 235px;
+}
+/*右边第二块开始*/
+.hotont_right .hotri_two{
+	height: 136px;
+}
+/*右边第二块头部*/
+.hotri_two .hortw_head{
+	height: 31px;
+	border-bottom:2px solid #5599dd;
+}
+.hortw_head .hottwh_left{
+	width:175px;
+	height: 31px;
+	background-position:0 -121px;
+	text-indent:-9999px;
+}
+.hortw_head .hottwh_mid{
+	width: 320px;
+	height: 24px;
+	padding-top:7px;
+	font:12px/24px "宋体";
+	position:relative;
+}
+.hottwh_mid a{
+	color:#333333;
+	margin-right:20px;
+	overflow:hidden;
+}
+.hottwh_mid .hottmid_act{
+	position:relative;
+}
+.hottmid_act span{
+	width: 8px;
+	height: 4px;
+	background-position:-46px 0;
+	position:absolute;
+	bottom:0;
+	left:8px;
+}
+.hottmid_lsj{
+	width: 8px;
+	height: 4px;
+	background-position:-46px -4px;
+	position:absolute;
+	bottom:10px;
+	right:0;
+}
+.hortw_head .hottwh_right{
+	height: 31px;
+	font:12px/31px "宋体";
+	margin-right:2px;
+}
+.hottwh_right a{
+	color:#0066cc;
+}
+/*右边第二块内容开始*/
+.hotri_two .hortw_cont{
+	width: 778px;
+	height: 102px;
+	border:1px solid #e2e2e2;
+	border-top:none;
+}
+/*右边第二块内容的左边开始*/
+.hortw_cont .hortco_left{
+	width: 81px;
+	height: 102px;
+	position:relative;
+}
+.hortco_left .hortole_tbg{
+	width: 57px;
+	height: 3px;
+	background-position:-55px 0;
+	position:absolute;
+	top:0;
+	left:10px;
+}
+.hortco_left .hortole_zbg{
+	width: 17px;
+	height: 20px;
+	background-position:-46px -92px;
+	position:absolute;
+	top:23px;
+	left:26px;
+}
+.hortco_left .hortole_ybg{
+	width: 13px;
+	height: 102px;
+	background:url(../img/hotri_two.png) no-repeat;
+	position:absolute;
+	top:0;
+	right:0;
+}
+.hortco_left .hortole_txt{
+	width: 65px;
+	height: 14px;
+	font:bold 12px/14px "宋体";
+	color:#5d66d0;
+	position:absolute;
+	top:65px;
+	left:5px;
+	text-align:center;
+}
+/*右边第二块内容区域中间的列表*/
+.hortw_cont .hortco_mid{
+	width: 626px;
+	height: 91px;
+	padding-top:11px;
+	border-right:1px solid #e2e2e2;
+}
+.hortco_mid .hormid_item{
+	width: 68px;
+	text-align:center;
+}
+.hormid_item span{
+	width: 44px;
+	height: 63px;
+	background-position:0 -153px;
+	display:inline-block;
+}
+/*更换列表下的背景图片*/
+.hotitem1 span{
+	background-position:-45px -153px;
+}
+.hotitem2 span{
+	background-position:-90px -153px;
+}
+.hotitem3 span{
+	background-position:-135px -153px;
+}
+.hotitem4 span{
+	background-position:-0px -217px;
+}
+.hotitem5 span{
+	background-position:-45px -217px;
+}
+.hormid_item a{
+	width: 68px;
+	font:12px/28px "宋体";
+	color:#666666;
+	display:inline-block;
+}
+/*第二块区域列表下最右边*/
+.hortw_cont .hortco_right{
+	width:70px;
+	height: 68px;
+	padding-top:34px;
+	text-align:center;
+}
+.hortco_right span{
+	width: 20px;
+	height: 18px;
+	background-position:-65px -92px;
+	display:inline-block;
+}
+.hortco_right a{
+	width:70px;
+	font:12px/38px "宋体";
+	color:#333333;
+	display:inline-block;
+}
+/*第三块区域开始*/
+.hotont_right .hotri_thr{
+	width: 780px;
+	height: 180px;
+	background:url(../img/right_cuofeng.png) no-repeat;
+	position:relative;
+}
+.hotri_thr .hotth_one{
+	width: 130px;
+	height: 35px;
+	position:absolute;
+	top:0;
+	right:0;
+}
+.hotri_thr .hotth_two{
+	width: 130px;
+	height: 35px;
+	position:absolute;
+	top:36px;
+	right:0;
+}
+.hotri_thr .hotth_thr{
+	width: 138px;
+	height: 36px;
+	position:absolute;
+	top:72px;
+	right:0;
+}
+.hotri_thr .hotth_four{
+	width: 130px;
+	height: 35px;
+	position:absolute;
+	bottom:36px;
+	right:0;
+}
+.hotri_thr .hotth_five{
+	width: 130px;
+	height: 35px;
+	position:absolute;
+	bottom:0;
+	right:0;
+}
+/*右边列表头部开始*/
+.hotont_right .hotri_four{
+	height: 1359px;
+	width: 780px;
+}
+/*左边LOGO*/
+.hotri_four .hotrfo_head{
+	height: 44px;
+	border-bottom:3px solid #5599dd;
+}
+.hotrfo_head .hotrf_left{
+	width:110px;
+	height: 27px;
+	background-position:0 -281px;
+	text-indent:-9999px;
+	margin-top:11px;
+	margin-right:25px;
+}
+/*中间城市分类*/
+.hotrfo_head .hotrf_one{
+	width: 350px;
+	height: 24px;
+	padding-top:20px;
+	font:12px/24px "宋体";
+	position:relative;
+}
+.hotrf_one a{
+	color:#333333;
+	margin-right:20px;
+	overflow:hidden;
+}
+.hotrf_one .fotfone_nomargin{
+	margin-right:0;
+}
+.hotrf_one .hotfone_act{
+	position:relative;
+}
+.hotfone_act span{
+	width: 8px;
+	height: 4px;
+	background-position:-46px 0;
+	position:absolute;
+	bottom:0;
+	left:8px;
+}
+.hotfone_lsj{
+	width: 8px;
+	height: 4px;
+	background-position:-46px -4px;
+	position:absolute;
+	bottom:10px;
+	left:336px;
+}
+/*右边大图*/
+.hotrfo_head .hotrf_two{
+	width: 186px;
+	height: 44px;
+	background:url(../img/hotshanghai.png) no-repeat;
+	margin-right:13px;
+}
+/*列表内容区域*/
+.hotri_four .hotrfo_list{
+	height: 1300px;
+	width:780px;
+}
+.hotrfo_list .hotfo_item{
+	width:780px;
+	height:155px;
+	border-bottom:1px dotted #dddddd;
+	overflow:hidden;
+	font-size:0px;
+}
+/*左边的图*/
+.hotfo_item .hotit_left{
+	width: 130px;
+	height: 130px;
+}
+/*中间列表开始第一行*/
+.hotfo_item .hotit_mid{
+	width: 441px;
+	height: 130px;
+	_display:inline;
+	_zoom:1;
+}	
+.hotit_mid .hotmi_one{
+	height: 22px;
+	margin-bottom:9px;
+}
+.hotmi_one .homione_one{
+	width: 22px;
+	height: 22px;
+	background-position:-86px -92px;
+	margin-right:9px;
+}
+.hotmi_one .homione_two{
+	font:bold 14px/22px "宋体";
+	color:#0066cc;
+	margin-right:14px;
+}
+.hotmi_one .homione_thr{
+	width: 59px;
+	height: 8px;
+	background-position:-56px -5px;
+	margin-top:6px;
+}
+/*中间列表开始第二行*/
+.hotit_mid .hotmi_two{
+	height: 23px;
+}
+.hotmi_two a{
+	font:12px/23px "宋体";
+	text-decoration:underline;
+	color:#333333;
+	margin-right:9px;
+}
+/*中间列表开始第三行*/
+.hotit_mid .hotmi_thr{
+	height: 23px;
+}
+.hotmi_thr span{
+	font:12px/23px "宋体";
+	color:#333333;
+}
+.hotmi_thr .hothr_line{
+	background:url(../img/hotri_line.png) no-repeat right 5px;
+	padding-right:3px;
+	margin-right:6px;
+}
+/*中间列表开始第四行*/
+.hotit_mid .hotmi_four{
+	height: 32px;
+	padding-left:4px;
+	_height:70px;
+}
+.hotmi_four span{
+	font:12px "宋体";
+	color:#999999;
+}
+/*中间列表最后块*/
+.hotfo_item .hotit_right{
+	width: 113px;
+	height: 118px;
+	padding-top:12px;
+	_display:inline;
+	_zoom:1;
+}
+.hotit_right .hotiri_one{
+	width: 7px;
+	height: 9px;
+	background-position:-118px 0;
+	margin-top:8px;
+	margin-left:28px;
+	vertical-align: top;
+	_right:77px;
+	display:inline-block;
+}
+.hotit_right .hotiri_two{
+	width:38px;
+	height: 18px;
+	font-size:28px;
+	font-weight:bold;
+	color:#ff6600;
+}
+.hotit_right .hotiri_thr{
+	width:12px;
+	height: 14px;
+	font:12px/14px "宋体";
+	color:#ff6600;
+	margin-top:8px;
+	margin-right:3px;
+}
+.hotit_right .hotiri_four{
+	width: 105px;
+	height: 14px;
+	font:12px/14px "宋体";
+	color:#10a200;
+	display:inline-block;
+	margin-top:69px;
+	overflow:hidden;
+}
+/*修改列表第二项*/
+.hotfo_itema .homione_thr{
+	width: 47px;
+	height: 8px;
+	background-position:-127px -1px;
+}
+/*修改列表第三项*/
+.hotfo_itemb .homione_one{
+	width: 18px;
+	height: 20px;
+	background-position:-109px -92px;
+}
+/*修改第四项*/
+.hotfo_itemc .homione_one{
+	width: 18px;
+	height: 20px;
+	background-position:-128px -92px;
+}
+/*修改第五项*/
+.hotfo_itemd .homione_thr{
+	width: 58px;
+	height: 9px;
+	background-position:-127px -9px;
+}
+.hotfo_itemd .homione_one{
+	width: 18px;
+	height: 20px;
+	background-position:-109px -92px;
+}
+/*第七项修改*/
+.hotfo_iteme .homione_thr{
+	width: 58px;
+	height: 9px;
+	background-position:-127px -9px;
+}
+/*第八项修改*/
+.hotfo_itemf .homione_one{
+	width: 18px;
+	height: 20px;
+	background-position:-128px -92px;
+}
+.hotfo_itemf .homione_thr{
+	width: 58px;
+	height: 9px;
+	background-position:-127px -9px;
+}
+.hotrfo_list .hotfo_itemf{
+	border-bottom:none;
+}
+
+/*右边最底下*/
+.hotont_right .hotri_five{
+	width: 782px;
+	height: 125px;
+	margin-bottom:5px;
+}
+.hotri_five .horifi_head{
+	width: 782px;
+	height: 30px;
+}
+.horifi_head h3{
+	width: 153px;
+	height: 22px;
+	text-indent:-9999px;
+	background-position:0 -309px;
+}
+.horifi_head a{
+	font:12px 28px "宋体";
+	color:#0066cc;
+	margin-top:2px;
+}
+/*最底下的内容*/
+.hotri_five .horifi_cont{
+	width: 782px;
+	height: 93px;
+	border-top:2px solid #d0d0d0;
+}
+/*地下左边按钮*/
+.horifi_cont .horifc_left{
+	width: 24px;
+	height: 92px;
+	border:1px solid #e2e2e2;
+	border-top:none;
+	background-position:#f5f5f5;
+	text-indent:-9999px;
+}
+.horifc_left span{
+	width: 8px;
+	height: 16px;
+	background-position:-149px -96px;
+	display:block;
+	margin-top:18px;
+	margin-left:7px;
+}
+/*底下列表内容*/
+.horifi_cont .horifc_mid{
+	width:730px;
+	height: 85px;
+	padding-top:7px;
+	border-bottom:1px solid #e2e2e2;
+}
+.horifc_mid .horifmi_item{
+	width: 76px;
+	height: 85px;
+	text-align:center;
+	margin-right:30px;
+	overflow:hidden;
+	font-size:0;
+	_height:78px;
+}
+.horifc_mid .nomargin{
+	margin-right:0;
+}
+.horifmi_item .horitem_txt{
+	width: 76px;
+	font:12px "宋体";
+	line-height:36px;
+	color:#666666;
+	display:inline-block;
+	overflow:hidden;
+	margin-bottom:0;
+}
+/*右边的下一页*/
+.horifi_cont .horifc_right{
+	width: 24px;
+	height: 92px;
+	border:1px solid #e2e2e2;
+	border-top:none;
+	background-position:#f5f5f5;
+	text-indent:-9999px;
+}
+.horifc_right span{
+	width: 8px;
+	height: 16px;
+	background-position:-158px -96px;
+	display:block;
+	margin-top:18px;
+	margin-left:7px;
+}
+/*页脚开始*/
+.hot_foot .hotfo_one{
+	width: 1161px;
+	height: 64px;
+	padding:8px 0 8px 15px;
+	border:2px solid #c2cbd4;
+	margin:0 auto 30px;
+}
+/*第一块左边*/
+.hotfo_one .hoton_left{
+	width: 777px;
+	height: 64px;
+	border-right:1px solid #d3dbe2;
+}
+.hoton_left .hotfl_one{
+	width: 46px;
+	height: 46px;
+	background-position:-138px -217px;
+	margin-top:10px;
+	margin-right:15px;
+}
+.hoton_left .hotfl_two{
+	height: 64px;
+}
+.hotfl_two dt{
+	font:bold 22px/64px "宋体";
+	color:#fd7b1c;
+}
+.hotfl_two dd{
+	margin-top:11px;
+	height: 44px;
+	font:bold 12px/22px "宋体";
+}
+.hotfl_two dd a{
+	color:#8f9ba7;
+	display:block;
+}
+/*第一块右边*/
+.hoton_right .hotri_one{
+	width: 46px;
+	height: 46px;
+	background-position:-138px -217px;
+	margin:10px 8px 0 15px;
+}
+.hotri_one .hotri_two{
+	height: 64px;
+}
+.hotri_two dt{
+	font:bold 22px/64px "宋体";
+	color:#fd7b1c;
+}
+.hotri_two dd{
+	margin-top:11px;
+	height: 44px;
+	font:bold 12px/22px "宋体";
+}
+.hotri_two dd a{
+	color:#8f9ba7;
+	display:block;
+}
+/*页脚第二块*/
+.hot_foot .hotfo_two{
+	width: 1180px;
+	height: 90px;
+	margin:0 auto 40px;
+	word-spacing:10px;
+}
+/*页脚第三块*/
+.hot_foot .hotfo_thr{
+	width:1146px;
+	height: 290px;
+	padding:11px 15px 0 15px;
+	border:2px solid #dedede;
+	margin:0 auto 45px;
+}
+/*第三块第一行*/
+.hotfo_thr .hotfoth_one dt{
+	font:bold 12px/24px "宋体";
+	color:#666666;
+}
+.hotfo_thr .hotfoth_one dd{
+	font:12px/24px "宋体";
+	color:#999999;
+}
+/*第三块第二行 复制第三四五六七行*/
+.hotfo_thr .hotfoth_two{
+	height:32px;
+	border-bottom:1px dotted #cccccc;
+}
+.hotfo_thr .hotfoth_two dt,.hotfo_thr .hotfoth_thr dt{
+	width: 80px;
+	font:bold 12px/32px "宋体";
+	color:#666666;
+	
+}
+.hotfo_thr .hotfoth_two dd a{
+	width: 88px;
+	font:12px/32px "宋体";
+	color:#999999;
+}
+/*修改第七块*/
+.hotfo_thr .hotfoth_thr dd a{
+	margin-right:30px;
+	font:12px/32px "宋体";
+	color:#999999;
+}
+/*公共页脚*/
+.hot_foot .hotfoth_four{
+	width: 940px;
+	height: 17px;
+	font:12px/17px "宋体";
+	margin:0 auto 1px;
+}
+.hotfoth_four a,.hotfoth_five a{
+	color:#4c4c4c;
+}
+.hotfoth_four .flyboot_line,.hotfoth_five .flyboot_line{
+	background:url(../img/flyboot_line.png) no-repeat right 4px;
+	padding-right:3px;
+	margin-right:3px;
+}
+/*页脚第三大块*/
+.hot_foot .hotfoth_five{
+	width: 910px;
+	height: 17px;
+	font:12px/17px "宋体";
+	margin:0 auto 11px;
+}
+.hotfoth_five .flyboot_line{
+	background:url(../img/flyboot_line.png) no-repeat right 4px;
+	padding-right:1px;
+	margin-right:1px;
+}
+/*最底下的举报电话什么的*/
+.hot_foot .hotfoth_six{
+	width: 956px;
+	height: 34px;
+	background:url(../img/btm.png) no-repeat;
+	margin:0 auto 25px;
+	text-indent:-9999px;
+}
+.hotfoth_six a{
+	width: 90px;
+	height: 34px;
+}
